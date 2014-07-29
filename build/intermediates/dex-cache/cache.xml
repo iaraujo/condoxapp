@@ -2,10 +2,40 @@
 <pre-dex-items>
 
     <item
-        dex="C:\Users\igor.silva\AndroidStudioProjects\CondoX_App\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
-        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        dex="/Users/igoraraujo/Projects/condoxapp/app/build/intermediates/pre-dexed/debug/gson-1.7.1-c13674ec4dba53a4f7885ac4ab0a20e729bfee68.jar"
+        jar="/Users/igoraraujo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/1.7.1/697e3a1fa094a983cd12f7f6f61abf9c6ea52e2/gson-1.7.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0697e3a1fa094a983cd12f7f6f61abf9c6ea52e2"/>
+    <item
+        dex="/Users/igoraraujo/Projects/condoxapp/app/build/intermediates/pre-dexed/debug/commons-lang3-3.0-c61cb3ac103cadf79bfa104a26e57b02691fcf79.jar"
+        jar="/Users/igoraraujo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.0/8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0/commons-lang3-3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0"/>
+    <item
+        dex="/Users/igoraraujo/Projects/condoxapp/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/igoraraujo/Projects/condoxapp/app/build/intermediates/pre-dexed/debug/spring-android-core-1.0.1.RELEASE-6ba48f1a15135bde516cc12fa71af6ed4471950c.jar"
+        jar="/Users/igoraraujo/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/1.0.1.RELEASE/e68f0e8e4b636ee30c4de58953be38d9b72a5e3b/spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b"/>
+    <item
+        dex="/Users/igoraraujo/Projects/condoxapp/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-1.0.1.RELEASE-b4ee7828f2b122a1abc099cc0f2ec6d3e13d1f2c.jar"
+        jar="/Users/igoraraujo/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/1.0.1.RELEASE/e132d929bd181941f79b0d63edafb8a86ae6fd33/spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33"/>
+    <item
+        dex="/Users/igoraraujo/Projects/condoxapp/app/build/intermediates/pre-dexed/debug/androidannotations-api-3.0.1-7228cbd4407297e0d0e32e58626c77d6a2b3194b.jar"
+        jar="/Users/igoraraujo/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.0.1/beb7e0a75c753383e7ef68c0e1639999db301c33/androidannotations-api-3.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="beb7e0a75c753383e7ef68c0e1639999db301c33"/>
 
 </pre-dex-items>
